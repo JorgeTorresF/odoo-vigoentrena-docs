@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Odoo
+*.pyc
+.DS_Store
+*.log
+*.pot
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Documentation build
+docs/_build/
+*.pdf
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Secrets and credentials
+*.key
+*.pem
+*.p12
+*.pfx
+certificates/
+credentials/
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
